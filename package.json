@@ -1,0 +1,23 @@
+{
+  "name": "agility-ui",
+  "version": "0.0.1",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "UI Library",
+    "Flexible UI",
+    "Tailwind Component Library"
+  ],
+  "author": "renren1127",
+  "license": "MIT",
+  "description": "On The Go Flexible UI Components For React.",
+  "dependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
