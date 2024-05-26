@@ -17,7 +17,12 @@
   "license": "MIT",
   "description": "On The Go Flexible UI Components For React.",
   "dependencies": {
+    "react": "^18.3.1",
+    "tailwind-merge": "^2.3.0",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18"
   }
 }
